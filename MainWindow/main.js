@@ -28,7 +28,6 @@ function createWindow() {
             contextIsolation: false,
         }
     });
-
     win.loadFile('./HTML/index.html');
 }
 
