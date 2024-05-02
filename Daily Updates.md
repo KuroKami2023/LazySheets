@@ -23,3 +23,8 @@
   - Managed to integrate google sheets into the electron app.
   - managed to upload contents of excel file to the google sheets.
   - Tried ways to modify the google sheets.
+
+○`05/02/2024`
+  - Changed approach on displaying contents of excel file.
+  - added function to edit the contents.
+  - Successfully managed to have a selectable worksheets for excel files that has multiple sheets(did not pushed to github).
