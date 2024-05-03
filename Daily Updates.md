@@ -28,3 +28,9 @@
   - Changed approach on displaying contents of excel file.
   - added function to edit the contents.
   - Successfully managed to have a selectable worksheets for excel files that has multiple sheets(did not pushed to github).
+
+○`05/03/2024`
+  - Trying out different approach to reduce lags on large excel files.
+  - Fixing old hard coded python code that transfers data from excel file to google sheets.
+  - Created a python code that transfer data from excel(xlsx) to google sheet.
+  - Learned Ideas from Mr. Cyrus Layugan
